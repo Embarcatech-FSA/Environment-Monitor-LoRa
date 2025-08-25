@@ -10,8 +10,8 @@ O **Receptor** recebe os dados, exibe no display OLED e fornece feedback visual 
 ## 📡 Funcionalidades
 
 - Coleta de dados ambientais:
-  - 🌡️ Temperatura (AHT20)
-  - 💧 Umidade (AHT20)
+  - 🌡️ Temperatura (AHT10)
+  - 💧 Umidade (AHT10)
   - 💡 Luminosidade (BH1750)
   - 🟢 Gás (simulado com joystick no ADC)
 - Processamento de dados com **Rede Neural MLP** embarcada
